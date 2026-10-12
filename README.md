@@ -4,7 +4,7 @@
 <img src="https://i.imgur.com/M6RNvzp.jpeg" alt="CYD Dial Pendant 3.5 inch" height="500">
 <img src="https://i.imgur.com/9qDRaXw.jpeg" alt="CYD Dial Pendant 3.5 inch" height="500">
 
-Due to my inability to RTFM, I made the mistake of purchasing a 3.5" model CYD instead of the widely documented and complete firmware for the 2.8".
+Due to my inability to RTFM, mistakes were made during purchase. The 3.5" model CYD instead of the widely documented and complete firmware for the 2.8".
 
 Mainly due to the pricing during purchase:
 
@@ -12,7 +12,7 @@ Mainly due to the pricing during purchase:
 
 3.5" Resistive RM57.73 = USD 14.11
 
-As such, through pain and suffering, I have managed to make the following changes to make it fullscreen(ish) on the 3.5" Resistive Model CYD. 
+As such, through some effort, I have managed to make the following changes to make it fullscreen(ish) on the 3.5" Resistive Model CYD. 
 
 Notes:
 - Canvas extended to mostly 320x480 resolution.
